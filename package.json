@@ -1,0 +1,21 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vite build --mode development"
+  },
+  "dependencies": {
+    "vue": "^2.7.14"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.2.71",
+    "unocss": "^0.52.4",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.3.0",
+    "vite-plugin-vue2": "^2.0.3"
+  }
+}
