@@ -1,2 +1,6 @@
 # vite-vue2-js-simple-starter
-## 只配了vue2和代理
+## vue2
+## vite
+## unocss
+## unplugin-vue-component
+## 代理
